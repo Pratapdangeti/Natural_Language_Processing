@@ -7,7 +7,7 @@ __author__ = 'pratap'
 
 para = "Hello world. It's good to see you. Thanks for buying this book."
 
-"""
+
 from nltk.tokenize import sent_tokenize
 print sent_tokenize(para)
 
@@ -44,8 +44,6 @@ print regexp_tokenize("Can't is a contraction.","[\w']+")
 
 swtokenizer = RegexpTokenizer('\s+', gaps=True)
 print swtokenizer.tokenize("Can't is a contraction.")
-
-"""
 
 
 # filtering stopwords in a tokenized sentence
