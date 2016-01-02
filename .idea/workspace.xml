@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef50a875-4cf1-4316-a278-68084a6220bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01.TokenizingnWordnetBasics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Natural_Language_Processing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.ReplacingnCorrectingWords.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.TokenizingnWordnetBasics.py" afterPath="$PROJECT_DIR$/01.TokenizingnWordnetBasics.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Natural_Language_Processing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.TokenizingnWordnetBasics.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.TokenizingnWordnetBasics.py">
+      <file leaf-file-name="02.ReplacingnCorrectingWords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.ReplacingnCorrectingWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4827586" vertical-offset="269" max-vertical-offset="885">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -51,6 +47,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01.TokenizingnWordnetBasics.py" />
+        <option value="$PROJECT_DIR$/02.ReplacingnCorrectingWords.py" />
       </list>
     </option>
   </component>
@@ -112,7 +109,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Python.01.TokenizingnWordnetBasics">
+  <component name="RunManager" selected="Python.02.ReplacingnCorrectingWords">
     <configuration default="false" name="01.TokenizingnWordnetBasics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,6 +123,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Natural_Language_Processing" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.TokenizingnWordnetBasics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="02.ReplacingnCorrectingWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Natural_Language_Processing" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.ReplacingnCorrectingWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -254,12 +270,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.01.TokenizingnWordnetBasics" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02.ReplacingnCorrectingWords" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.01.TokenizingnWordnetBasics" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.02.ReplacingnCorrectingWords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.01.TokenizingnWordnetBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +293,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -321,8 +339,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01.TokenizingnWordnetBasics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4827586" vertical-offset="269" max-vertical-offset="885">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="614" max-vertical-offset="1545">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.ReplacingnCorrectingWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
